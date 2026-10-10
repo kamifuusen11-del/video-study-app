@@ -1,4 +1,8 @@
-// Firebase Console > プロジェクトの設定 > ウェブアプリの構成をここに貼り付けます。
-// Firebase Authenticationで「メール/パスワード」を有効化し、Firestoreを作成してください。
-export const firebaseConfig = null;
-// 例: export const firebaseConfig = {apiKey:'...',authDomain:'...',projectId:'...',appId:'...'};
+export const firebaseConfig = {
+  apiKey: "AIzaSyDWdTf1sJwMLWEx9EnsSlQDoLS2gB1tZRQ",
+  authDomain: "video-study-app.firebaseapp.com",
+  projectId: "video-study-app",
+  storageBucket: "video-study-app.firebasestorage.app",
+  messagingSenderId: "1067738859333",
+  appId: "1:1067738859333:web:61282fcb86f2f71674202c"
+};
